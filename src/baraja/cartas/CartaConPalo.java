@@ -1,6 +1,6 @@
-package ejercicio1.cartas;
+package baraja.cartas;
 
-import ejercicio1.Palo;
+import baraja.Palo;
 
 public abstract class CartaConPalo extends Carta {
 

@@ -1,4 +1,4 @@
-package ejercicio1.cartas;
+package baraja.cartas;
 
 public abstract class Carta {
     private boolean tapada;

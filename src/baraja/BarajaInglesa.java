@@ -1,9 +1,9 @@
-package ejercicio1;
+package baraja;
 
-import ejercicio1.cartas.Carta;
-import ejercicio1.cartas.CartaFigura;
-import ejercicio1.cartas.CartaJoker;
-import ejercicio1.cartas.CartaNumeral;
+import baraja.cartas.Carta;
+import baraja.cartas.CartaFigura;
+import baraja.cartas.CartaJoker;
+import baraja.cartas.CartaNumeral;
 
 import java.util.ArrayList;
 

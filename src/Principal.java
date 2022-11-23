@@ -1,4 +1,4 @@
-package ejercicio1;
+import baraja.BarajaInglesa;
 
 public class Principal {
     public static void main(String[] args) {

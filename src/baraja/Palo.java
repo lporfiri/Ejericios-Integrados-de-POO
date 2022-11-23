@@ -1,4 +1,4 @@
-package ejercicio1;
+package baraja;
 
 public enum Palo {
     DIAMANTE(Color.ROJO),

@@ -1,4 +1,4 @@
-package ejercicio1.cartas;
+package baraja.cartas;
 
 public class CartaJoker extends Carta {
     private boolean aColor;
